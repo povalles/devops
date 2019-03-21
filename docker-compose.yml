@@ -1,0 +1,10 @@
+version: '3'
+services:
+  test_web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: 'brangerbriz/devops'
+    container_name: 'Devops_test'
+    ports:
+     - "80:3000"
