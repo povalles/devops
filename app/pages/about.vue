@@ -2,7 +2,7 @@
   <div>
     <p>Hi from {{ name }}</p>
     <NLink to="/">
-      Home page Test2
+      Home page Test Webhook
     </NLink>
   </div>
 </template>
