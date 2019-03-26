@@ -2,7 +2,7 @@
   <div>
     <h1>Welcome!</h1>
     <NLink to="/about">
-      About Page auto deploy
+      About Page auto deploy 2
     </NLink>
   </div>
 </template>
